@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Basics of Machine Learning with few Programming Languages like C++, Python and Java.
 - 💞️ I’m looking to collaborate on basic models for Machine Learning.
-- 📫 How to reach me s (Sorry not now)
+- 📫 How to reach me? Easy, just drop your message.
 
 <!---
 HarshSharma0007/HarshSharma0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
