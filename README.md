@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Harsh Sharma
+- 👋 Hi, it's Harsh Sharma.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Basics of Machine Learning with few Programming Languages like C++, Python and Java.
+- 🤖 Machine Learning
+- 🖥️ Web Development
 - 💞️ I’m looking to collaborate on basic models for Machine Learning.
 - 📫 How to reach me? Easy, just drop your message.
 
