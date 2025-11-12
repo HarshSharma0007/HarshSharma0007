@@ -1,7 +1,7 @@
 - 👋 Hi, it's Harsh Sharma.
 - 👀 I’m interested in Coding.
-- 🤖 Machine Learning
-- 🖥️ Web Development
+- 🤖 Machine Learning Engineer
+- 🖥️ Backend Web Development
 - 💞️ I’m looking to collaborate on basic models for Machine Learning.
 - 📫 How to reach me? Easy, just drop your message.
 
